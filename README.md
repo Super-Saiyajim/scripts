@@ -1,2 +1,2 @@
 # scripts
-A collection with some of my scripts.
+A collection with some scripts I find usefull.
