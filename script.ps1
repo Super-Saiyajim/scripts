@@ -1,2 +1,2 @@
 mkdir C:\test
-get-date >> C:\test\date_test.txt
+get-date >> C:\test2\date_test.txt
